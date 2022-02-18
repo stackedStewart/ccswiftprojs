@@ -1,6 +1,6 @@
-var pesos: Double = 4
-var reais: Double = 5
-var soles: Double = 6
+var pesos: Double = 25 
+var reais: Double = 26
+var soles: Double = 456
 
 var total: Double = 0
 
