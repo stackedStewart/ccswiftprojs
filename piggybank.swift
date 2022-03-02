@@ -10,7 +10,7 @@ var total: Double = 0
 pesos = 0.049 usd
 reais = 0.17  usd
 soles = 0.27  usd
-*/
+*/aa
 
 total = 0.049 * pesos + 0.19 * reais + 0.27 * soles 
 
