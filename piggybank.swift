@@ -15,3 +15,5 @@ soles = 0.27  usd
 total = 0.049 * pesos + 0.19 * reais + 0.27 * soles 
 
 print("Total USD = \(total).")
+
+//John Stewart | Codecademy Project | 4/3/2022

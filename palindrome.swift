@@ -15,3 +15,5 @@ if text == reversed {
 } else {
   print("This is not a palindrome!")
 }
+
+//John Stewart | Codecademy Project | 4/3/2022

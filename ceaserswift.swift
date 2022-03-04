@@ -19,3 +19,6 @@ for i in 0 ..< message.count {
 
 print(message)
 print(message2)
+
+
+//John Stewart | Codecademy Project | 4/3/2022

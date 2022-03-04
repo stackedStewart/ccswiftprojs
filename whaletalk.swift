@@ -21,3 +21,5 @@ switch lowerChar {
 }
 
 print(output)
+
+//John Stewart | Codecademy Project | 4/3/2022

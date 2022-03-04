@@ -8,3 +8,6 @@ while numBottles > 0 {
 }
 
 print("0 bottles of milk on the wall, 0 bottles of milk! Go to the store buy some more, 99 bottles of milk on the wall!")
+
+
+//John Stewart | Codecademy Project | 4/3/2022
