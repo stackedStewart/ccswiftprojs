@@ -58,4 +58,4 @@ charmander.displayInfo()
 squirtle.displayInfo()
 charizard.displayInfo()
 
-//John Stewart | Codecademy | 5/3/22
+//John Stewart | Pokedex Project | Codecademy | 09/11/2022 
