@@ -14,4 +14,4 @@ for item in list {
 
 print("Product of odd is \(productOdd)")
 print("Sum of even is \(totalEven)")
-//John Stewart | Codecademy Project | 4/3/2022
+//John Stewart | Odd Even Optional | Codecademy Project | 04/03/2022

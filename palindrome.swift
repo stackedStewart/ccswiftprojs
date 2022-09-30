@@ -16,4 +16,4 @@ if text == reversed {
   print("This is not a palindrome!")
 }
 
-//John Stewart | Codecademy Project | 4/3/2022
+//John Stewart  | Palindrome | Codecademy Project | 03/04/2022

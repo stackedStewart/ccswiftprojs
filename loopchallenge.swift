@@ -5,4 +5,4 @@ for num in 1...100 {
   print(num)
 
 
-//John Stewart | Codecademy Project | 4/3/2022}
+//John Stewart | Loop challenge| Codecademy Project | 03/04/2022

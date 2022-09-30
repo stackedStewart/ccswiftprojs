@@ -36,4 +36,4 @@ print("Magic 8 Ball's answer: \(eightBall)")
 //playerName.isEmpty ? print("Question: \(playerQuestion)") : print("\(playerName) asks: \(playerQuestion)")
 //print("Magic 8 Ball's answer: \(eightBall)")
 
-//John Stewart | Codecademy Project | 4/3/2022
+//John Stewart | Magic 8 ball | Codecademy Project | 03/04/2022

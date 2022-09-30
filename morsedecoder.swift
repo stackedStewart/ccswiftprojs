@@ -119,4 +119,4 @@ for char in decodedMessage {
 print(decodedMessage)
 
 //Morse deCoder project codecademy
-//John Stewart | Codecademy Project | 4/3/2022
+//John Stewart | Morse Coder | Codecademy Project | 03/04/2022
