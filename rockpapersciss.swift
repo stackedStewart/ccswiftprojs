@@ -66,4 +66,4 @@ print("The computer threw \(compChoice)")
 print(determineWinner(userChoice, compChoice))
 
 
-//John Stewart | Codecademy Project | 4/3/2022
+//John Stewart | Rock Paper Scissors | Codecademy Project | 03/04/2022

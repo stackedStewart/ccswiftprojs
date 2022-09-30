@@ -68,4 +68,4 @@ var fieldTrip2 = fieldTrip.subtracting(german101)
 print("These students \(fieldTrip2) will also be going!")
 
 
-//John Stewart | Codecademy Project | 4/3/2022
+//John Stewart | Roster | Codecademy Project | 03/04/2022

@@ -22,4 +22,4 @@ switch lowerChar {
 
 print(output)
 
-//John Stewart | Codecademy Project | 4/3/2022
+//John Stewart | Whale Talk | Codecademy Project | 03/04/2022
