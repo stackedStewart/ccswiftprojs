@@ -45,4 +45,4 @@ var mondayRegimen = Regimen(dayOfWeek: "Monday", exercises:[pushUp])
 
 mondayRegimen.printExercisePlan()
 
-//John Stewart | Codecademy | 03/05/2022
+//John Stewart | Gym regime | Codecademy | 03/05/2022
